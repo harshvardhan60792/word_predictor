@@ -130,7 +130,3 @@ This project demonstrates:
 - Recurrent Neural Networks (RNNs)
 - Long Short-Term Memory Networks (LSTMs)
 - Text Generation
-
-## Author
-
-Built using TensorFlow/Keras for next-word prediction and text generation.
